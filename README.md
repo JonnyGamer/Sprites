@@ -1,6 +1,6 @@
 # Sprites
 
-A nicely built SpriteKit framework.
+A nicely built SpriteKit framework, for anyone learning SpriteKit.
 
 # Scene Setup
 
@@ -20,6 +20,8 @@ struct Scene1: Hostable {
     
 }
 ```
+
+Note the use of `struct` instead of `class`. Wow, SpriteKit improvement!
 
 # Framework Code
 
