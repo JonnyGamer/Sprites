@@ -372,4 +372,8 @@ extension String {
     }
 }
 
+extension String.SubSequence { var s: String { String(self) } }
+extension Character { var s: String { String(self) } }
+
+
 ```
